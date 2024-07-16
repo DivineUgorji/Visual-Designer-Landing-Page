@@ -60,4 +60,4 @@ And Learning.</h3>
 
 ## References
 
-- Design by ![ Anima](https://www.animaapp.com)
+- Design by [Anima](https://www.animaapp.com)
