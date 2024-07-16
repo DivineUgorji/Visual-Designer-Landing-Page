@@ -3,7 +3,8 @@
 
 <br>
 
-<h3>This resource here is completely for the purpose of practise and learning.</h3>
+<h3>This Resource Here Is Completely For The Purpose Of Practise a
+And Learning.</h3>
 
 <br>
 
@@ -12,10 +13,10 @@
 ![](design/Cover.jpg)
 
 <br>
-
+<div align="center">
 ![Static Badge](<https://img.shields.io/badge/HTML%205-black?style=for-the-badge&logo=html5&logoColor=white&logoSize=36px&labelColor=hsl(0%2C%200%25%2C%2017.6%25)>)
 
-![Static Badge](<https://img.shields.io/badge/CSS%203-%231572B6?style=for-the-badge&logo=css3&logoColor=white&logoSize=36px&labelColor=hsl(0%2C%200%25%2C%2017.6%25)>)
+!![Static Badge](<https://img.shields.io/badge/HTML%205-%23E34F26?style=for-the-badge&logo=html5&logoColor=white&logoSize=36px&labelColor=hsl(0%2C%200%25%2C%2017.6%25)>)
 
 ![Static Badge](<https://img.shields.io/badge/PRETTIER-%23F7B93E?style=for-the-badge&logo=prettier&logoColor=black&logoSize=36px&labelColor=hsl(0%2C%200%25%2C%2017.6%25)>)
 
@@ -56,6 +57,4 @@
 
 ## References
 
-- Figma Community ![Static Badge](<https://img.shields.io/badge/Figma-Community-black?style=for-the-badge&logo=figma&logoColor=%23FFFFFF&logoSize=36px&labelColor=hsl(0%2C%200%25%2C%2017.6%25)&color=hsl(0%2C%200%25%2C%2017.6%25)>)
-
-- ![Design by Anima](https://www.animaapp.com)
+- Design by ![ Anima](https://www.animaapp.com)
