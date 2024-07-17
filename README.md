@@ -1,8 +1,6 @@
 <div align = "center"> 
 <h1 align="center"> Visual Designer Portfolio Landing Page</h1>
 
-<br>
-
 <h3>This Resource Here Is Completely For The Purpose Of Practise a
 And Learning.</h3>
 
@@ -11,14 +9,6 @@ And Learning.</h3>
 <p>This is my shot at a free design resource made by Anima which I found online and used for the purpose of practise and self learning.</p>
 
 ![](design/Cover.jpg)
-
-</div>
-
-<div align="center">
-
-![YouTube](https://img.shields.io/youtube/channel/subscribers/UCvE1503oOurDjrFw2Mrt-Og?color=%09%23FF0000&logo=youtube&style=for-the-badge)
-![Twitter](https://img.shields.io/twitter/follow/iftekhariasif?label=Iftekhar%20I%20Asif&logo=twitter&style=for-the-badge)
-![GitHub](https://img.shields.io/github/followers/IftekharIAsif?logo=github&style=for-the-badge)
 
 </div>
 
@@ -60,8 +50,8 @@ And Learning.</h3>
 ## Author
 
 - Divine Ugorji
-- Twitter - [@DivineUgorji](https://www.twitter.com/DivineUgorji)
+- Twitter [@DivineUgorji](https://www.twitter.com/DivineUgorji)
 
 ## References
 
-- Design by [Anima](https://www.animaapp.com)
+- Design by [Anima: AI Design to Code | Figma to React | Figma to HTML ...](https://www.animaapp.com)
