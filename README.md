@@ -17,13 +17,16 @@ And Learning.</h3>
 <br>
 <div align = "center">
 
-<a href="#">![Static Badge](<https://img.shields.io/badge/HTML%205-%23E34F26?style=for-the-badge&logo=html5&logoColor=white&logoSize=36px&labelColor=hsl(0%2C%200%25%2C%2017.6%25)>)<a>
+<a href="#">![Static Badge](https://img.shields.io/badge/GIT-%23F05032?style=for-the-badge&logo=git&logoColor=white&logoSize=36px&labelColor=%23F05032)
+<a>
 
 <a href="#">![Static Badge](https://img.shields.io/badge/CSS%203-%231572B6?style=for-the-badge&logo=css3&logoSize=36px&labelColor=%231572B6)</a>
 
-<a href="#">![Static Badge](<https://img.shields.io/badge/PRETTIER-%23F7B93E?style=for-the-badge&logo=prettier&logoColor=black&logoSize=36px&labelColor=hsl(0%2C%200%25%2C%2017.6%25)>)</a>
+<a href="#">![Static Badge](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white&logoSize=36px&labelColor=%23E34F26)
+</a>
 
-<a href="">![Static Badge](<https://img.shields.io/badge/Git-%23181717?style=for-the-badge&logo=github&logoColor=white&logoSize=36px&labelColor=hsl(0%2C%200%25%2C%2017.6%25)>)</a>
+<a href="">![Static Badge](https://img.shields.io/badge/PRETTIER-%23F7B93E?style=for-the-badge&logo=prettier&logoColor=white&logoSize=36px&labelColor=%23F7B93E)
+</a>
 
 </div>
 
