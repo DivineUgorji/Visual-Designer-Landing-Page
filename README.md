@@ -15,7 +15,7 @@ And Learning.</h3>
 </div>
 
 <br>
-<div align = "center">
+<div align="center">
 
 <a href="#">![Static Badge](https://img.shields.io/badge/GIT-%23F05032?style=for-the-badge&logo=git&logoColor=white&logoSize=36px&labelColor=%23F05032)
 <a>
