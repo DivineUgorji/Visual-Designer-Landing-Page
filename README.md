@@ -24,13 +24,13 @@ And Learning.</h3>
 
 <div align="center">
 
-![Static Badge](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white&logoSize=36px&labelColor=%23E34F26)
+![](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white&logoSize=36px&labelColor=%23E34F26)
 
-![Static Badge](https://img.shields.io/badge/CSS%203-%231572B6?style=for-the-badge&logo=css3&logoSize=36px&labelColor=%231572B6)
+![](https://img.shields.io/badge/CSS%203-%231572B6?style=for-the-badge&logo=css3&logoSize=36px&labelColor=%231572B6)
 
-![Static Badge](https://img.shields.io/badge/PRETTIER-%23F7B93E?style=for-the-badge&logo=prettier&logoColor=white&logoSize=36px&labelColor=%23F7B93E)
+![](https://img.shields.io/badge/PRETTIER-%23F7B93E?style=for-the-badge&logo=prettier&logoColor=white&logoSize=36px&labelColor=%23F7B93E)
 
-![Static Badge](https://img.shields.io/badge/GIT-%23F05032?style=for-the-badge&logo=git&logoColor=white&logoSize=36px&labelColor=%23F05032)
+![](https://img.shields.io/badge/GIT-%23F05032?style=for-the-badge&logo=git&logoColor=white&logoSize=36px&labelColor=%23F05032)
 
 </div>
 
