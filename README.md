@@ -16,7 +16,6 @@ And Learning.</h3>
 
 <br>
 <div align="center">
-
 ![Static Badge](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white&logoSize=36px&labelColor=%23E34F26)
 
 ![Static Badge](https://img.shields.io/badge/CSS%203-%231572B6?style=for-the-badge&logo=css3&logoSize=36px&labelColor=%231572B6)
