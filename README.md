@@ -15,8 +15,8 @@ And Learning.</h3>
 </div>
 
 <br>
-<div align="center" style="display:flex">
-<p>
+<div align="center">
+<p align="center">
 
 <!-- ![Static Badge](<https://img.shields.io/badge/HTML%205-black?style=for-the-badge&logo=html5&logoColor=white&logoSize=36px&labelColor=hsl(0%2C%200%25%2C%2017.6%25)>) -->
 
