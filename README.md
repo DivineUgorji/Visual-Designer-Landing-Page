@@ -23,7 +23,15 @@ And Learning.</h3>
 
 <a href="#">![Static Badge](<https://img.shields.io/badge/PRETTIER-%23F7B93E?style=for-the-badge&logo=prettier&logoColor=black&logoSize=36px&labelColor=hsl(0%2C%200%25%2C%2017.6%25)>)</a>
 
-<a href="#">![Static Badge](<https://img.shields.io/badge/Git-%23181717?style=for-the-badge&logo=github&logoColor=white&logoSize=36px&labelColor=hsl(0%2C%200%25%2C%2017.6%25)>)</a>
+<a href="">![Static Badge](<https://img.shields.io/badge/Git-%23181717?style=for-the-badge&logo=github&logoColor=white&logoSize=36px&labelColor=hsl(0%2C%200%25%2C%2017.6%25)>)</a>
+
+</div>
+
+<div align="center">
+
+<a href="">![example1](https://img.shields.io/badge/example-one-red)</a>
+<a href="">![example2](https://img.shields.io/badge/example-two-green)</a>
+<a href="">![example3](https://img.shields.io/badge/example-three-blue)</a>
 
 </div>
 
