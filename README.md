@@ -16,15 +16,21 @@ And Learning.</h3>
 
 <br>
 <div align="center" style="display:flex">
+<p>
 
-![Static Badge](<https://img.shields.io/badge/HTML%205-black?style=for-the-badge&logo=html5&logoColor=white&logoSize=36px&labelColor=hsl(0%2C%200%25%2C%2017.6%25)>)
+<!-- ![Static Badge](<https://img.shields.io/badge/HTML%205-black?style=for-the-badge&logo=html5&logoColor=white&logoSize=36px&labelColor=hsl(0%2C%200%25%2C%2017.6%25)>) -->
 
-![Static Badge](<https://img.shields.io/badge/HTML%205-%23E34F26?style=for-the-badge&logo=html5&logoColor=white&logoSize=36px&labelColor=hsl(0%2C%200%25%2C%2017.6%25)>)
+<a>![Static Badge](<https://img.shields.io/badge/HTML%205-%23E34F26?style=for-the-badge&logo=html5&logoColor=white&logoSize=36px&labelColor=hsl(0%2C%200%25%2C%2017.6%25)>)
+</a>
 
-![Static Badge](<https://img.shields.io/badge/PRETTIER-%23F7B93E?style=for-the-badge&logo=prettier&logoColor=black&logoSize=36px&labelColor=hsl(0%2C%200%25%2C%2017.6%25)>)
+<a> https://img.shields.io/badge/CSS%203-%231572B6?style=for-the-badge&logo=css3&logoSize=36px&labelColor=%231572B6
+</a>
 
-![Static Badge](<https://img.shields.io/badge/Git-%23181717?style=for-the-badge&logo=github&logoColor=white&logoSize=36px&labelColor=hsl(0%2C%200%25%2C%2017.6%25)>)
+<a>![Static Badge](<https://img.shields.io/badge/PRETTIER-%23F7B93E?style=for-the-badge&logo=prettier&logoColor=black&logoSize=36px&labelColor=hsl(0%2C%200%25%2C%2017.6%25)>)</a>
 
+<a>![Static Badge](<https://img.shields.io/badge/Git-%23181717?style=for-the-badge&logo=github&logoColor=white&logoSize=36px&labelColor=hsl(0%2C%200%25%2C%2017.6%25)>)</a>
+
+</p>
 </div>
 
 ### The challenge
