@@ -14,8 +14,16 @@ And Learning.</h3>
 
 </div>
 
-<br>
 <div align="center">
+
+![YouTube](https://img.shields.io/youtube/channel/subscribers/UCvE1503oOurDjrFw2Mrt-Og?color=%09%23FF0000&logo=youtube&style=for-the-badge)
+![Twitter](https://img.shields.io/twitter/follow/iftekhariasif?label=Iftekhar%20I%20Asif&logo=twitter&style=for-the-badge)
+![GitHub](https://img.shields.io/github/followers/IftekharIAsif?logo=github&style=for-the-badge)
+
+</div>
+
+<div align="center">
+
 ![Static Badge](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white&logoSize=36px&labelColor=%23E34F26)
 
 ![Static Badge](https://img.shields.io/badge/CSS%203-%231572B6?style=for-the-badge&logo=css3&logoSize=36px&labelColor=%231572B6)
@@ -26,13 +34,6 @@ And Learning.</h3>
 
 </div>
 
-<div align="center">
-
-![YouTube](https://img.shields.io/youtube/channel/subscribers/UCvE1503oOurDjrFw2Mrt-Og?color=%09%23FF0000&logo=youtube&style=for-the-badge)
-![Twitter](https://img.shields.io/twitter/follow/iftekhariasif?label=Iftekhar%20I%20Asif&logo=twitter&style=for-the-badge)
-![GitHub](https://img.shields.io/github/followers/IftekharIAsif?logo=github&style=for-the-badge)
-
-</div>
 ### The challenge
 
 - Building the project to be close to the design as much as possible.
