@@ -15,30 +15,28 @@ And Learning.</h3>
 </div>
 
 <br>
-<div align="center">
-<p align="center">
+<div align = "center">
 
-<!-- ![Static Badge](<https://img.shields.io/badge/HTML%205-black?style=for-the-badge&logo=html5&logoColor=white&logoSize=36px&labelColor=hsl(0%2C%200%25%2C%2017.6%25)>) -->
+![Static Badge](<https://img.shields.io/badge/HTML%205-%23E34F26?style=for-the-badge&logo=html5&logoColor=white&logoSize=36px&labelColor=hsl(0%2C%200%25%2C%2017.6%25)>)
 
-<a>![Static Badge](<https://img.shields.io/badge/HTML%205-%23E34F26?style=for-the-badge&logo=html5&logoColor=white&logoSize=36px&labelColor=hsl(0%2C%200%25%2C%2017.6%25)>)
-</a>
+https://img.shields.io/badge/CSS%203-%231572B6?style=for-the-badge&logo=css3&logoSize=36px&labelColor=%231572B6
 
-<a href="#" src="https://img.shields.io/badge/CSS%203-%231572B6?style=for-the-badge&logo=css3&logoSize=36px&labelColor=%231572B6"> 
-</a>
+![Static Badge](<https://img.shields.io/badge/PRETTIER-%23F7B93E?style=for-the-badge&logo=prettier&logoColor=black&logoSize=36px&labelColor=hsl(0%2C%200%25%2C%2017.6%25)>)
 
-<a>![Static Badge](<https://img.shields.io/badge/PRETTIER-%23F7B93E?style=for-the-badge&logo=prettier&logoColor=black&logoSize=36px&labelColor=hsl(0%2C%200%25%2C%2017.6%25)>)</a>
+![Static Badge](<https://img.shields.io/badge/Git-%23181717?style=for-the-badge&logo=github&logoColor=white&logoSize=36px&labelColor=hsl(0%2C%200%25%2C%2017.6%25)>)
 
-<a>![Static Badge](<https://img.shields.io/badge/Git-%23181717?style=for-the-badge&logo=github&logoColor=white&logoSize=36px&labelColor=hsl(0%2C%200%25%2C%2017.6%25)>)</a>
-
-</p>
 </div>
 
-<div align="center">
-![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-[](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<div align = "center">
+    
+[![Gmail: Melvin Aguilar](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:melvinaguilarhdz@gmail.com)](mailto:melvinaguilarhdz@gmail.com)&nbsp;
+[![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/MelvinAguilar)](https://www.frontendmentor.io/profile/MelvinAguilar)&nbsp;
+[![Linkedin: Melvin Aguilar](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/melvinaguilar)](https://www.linkedin.com/in/melvinaguilar)
+<br>
+[![Linktree](https://img.shields.io/badge/-Linktree-39e09b?&style=for-the-badge&logo=linktree&logoColor=white&link=https://linktr.ee/melvinaguilar)](https://linktr.ee/melvinaguilar)&nbsp;
+[![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp-0A0A23?style=for-the-badge&logo=FreeCodeCamp&logoColor=white&link=https://www.freecodecamp.org/melvinaguilar)](https://www.freecodecamp.org/melvinaguilar)&nbsp;
+[![CodePen](https://img.shields.io/badge/-CodePen-000000?style=for-the-badge&logo=CodePen&logoColor=white&link=https://codepen.io/melvinhdev)](https://codepen.io/melvinhdev)
+
 </div>
 ### The challenge
 
