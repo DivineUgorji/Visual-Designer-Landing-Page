@@ -29,7 +29,7 @@ And Learning.</h3>
 
 ### Links
 
-- Check out the website[here](https://the-odin-homepage.netlify.app/)
+- Check out the website[:Live site URL](https://the-odin-homepage.netlify.app/)
 
 ### Built with
 
