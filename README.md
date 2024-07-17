@@ -32,9 +32,13 @@ And Learning.</h3>
 
 <div align="center">
 
-<a href="">![example1](https://img.shields.io/badge/example-one-red)</a>
-<a href="">![example2](https://img.shields.io/badge/example-two-green)</a>
-<a href="">![example3](https://img.shields.io/badge/example-three-blue)</a>
+<a href="">![Static Badge](https://img.shields.io/badge/CSS%203-%231572B6?style=for-the-badge&logo=css3&logoSize=36px&labelColor=%231572B6)</a>
+
+<a href="">![Static Badge](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white&logoSize=36px&labelColor=%23E34F26)
+</a>
+
+<a href="">![Static Badge](https://img.shields.io/badge/PRETTIER-%23F7B93E?style=for-the-badge&logo=prettier&logoColor=white&logoSize=36px&labelColor=%23F7B93E)
+</a>
 
 </div>
 
