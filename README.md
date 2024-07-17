@@ -23,7 +23,7 @@ And Learning.</h3>
 <a>![Static Badge](<https://img.shields.io/badge/HTML%205-%23E34F26?style=for-the-badge&logo=html5&logoColor=white&logoSize=36px&labelColor=hsl(0%2C%200%25%2C%2017.6%25)>)
 </a>
 
-<a> https://img.shields.io/badge/CSS%203-%231572B6?style=for-the-badge&logo=css3&logoSize=36px&labelColor=%231572B6
+<a href="#" src="https://img.shields.io/badge/CSS%203-%231572B6?style=for-the-badge&logo=css3&logoSize=36px&labelColor=%231572B6"> 
 </a>
 
 <a>![Static Badge](<https://img.shields.io/badge/PRETTIER-%23F7B93E?style=for-the-badge&logo=prettier&logoColor=black&logoSize=36px&labelColor=hsl(0%2C%200%25%2C%2017.6%25)>)</a>
